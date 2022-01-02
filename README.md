@@ -1,4 +1,4 @@
-# TeknologiMultimediaQuizSatu
+# Teknologi Multimedia Quiz Satu
 
 ## English
 This repository was created to fulfill the First Quiz Assignment of the ITS Multimedia Technology Course    
